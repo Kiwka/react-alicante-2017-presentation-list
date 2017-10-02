@@ -20,9 +20,7 @@ List of the links to slides done by all the speakers at React Alicante 2017
 7. Mutable or Immutable? Let's do both!  - Mattia Manzati
 
 8. How to make React applications really reactive with Focal? - Gregory Shehet
-
 9 .Beyond JavaScript: The Real Benefit of React Native - Wojciech Ogrodowczyk
-
 10. Writing highly reusable React components - Javi Velasco
 
 11. The Dream of Styleguide Driven Development - Sara Vieira
