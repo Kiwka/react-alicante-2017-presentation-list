@@ -6,7 +6,7 @@ List of the links to slides done by all the speakers at React Alicante 2017
 - **The effect of React on web standards** by Karl Horky - [Slides](https://work.karlhorky.com/talks/packages/2017-09-28-react-alicante-the-effect-of-react-on-web-standards/)
 - **Modular CSS** by Andrey Okonetchnikov - [Slides](https://t.co/7tNpXTmpAu)
 - **React &gt;&gt; Redux a development workflow** by Braulio Díez - [Slides](  https://www.slideshare.net/brauliodiez/react-alicante-react-redux-a-development-workflow-80342027)
-- **React-Storybook: Design, Develop, Document and Debug your React UI components** by Marie-Laure Thuret - [Video from React Conf 2017](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
+- **React-Storybook: Design, Develop, Document and Debug your React UI components** by Marie-Laure Thuret - [Slides](https://speakerdeck.com/mlthuret/storybook-dev-design-debug-and-document-your-ui-components) and [Video from React Conf 2017](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
 - **A practical guide to Redux Form** by Erik Rasmussen - [Slides](https://speakerdeck.com/erikras/a-practical-guide-to-redux-form) and [Code](https://github.com/erikras/reactalicante2017)
 - **React Native - Case study: From zero to a super hero app** by Ferran Negre
 - **Mutable or Immutable? Let's do both!** by Mattia Manzati - [Slides](https://mattiamanzati.github.io/slides-react-alicante-2017/)
